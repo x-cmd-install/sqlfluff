@@ -1,0 +1,65 @@
+about:
+  description: A modular SQL linter and auto-formatter with support for multiple dialects and templated code.
+  license: MIT
+  homepage: https://www.sqlfluff.com
+  head: ddd83f1
+  archived: false
+  latestVersion: 4.3.0
+  collectedAt: 2026-09-03T04:10:26Z
+timeline:
+  created: 2018-11-01
+  lastCommit: 2026-09-02
+  lastRelease: 2026-08-07
+popularity:
+  star: 9863
+  watcher: 40
+  fork: 1121
+  release: 142
+  contributor: 605
+  pullRequest: 447
+  issue: 3754
+language:
+  Python: 6113132
+  SQL: 1482860
+  Rust: 993066
+  TypeScript: 25465
+  Vue: 21892
+  JavaScript: 15516
+  CSS: 13564
+  Dockerfile: 2531
+  Makefile: 1042
+  Jinja: 117
+totalLine: 8669185
+recent:
+  last30d:
+    since: 2026-08-04
+    release: 1
+    mergedPR: 56
+    openPR: 35
+    closedIssue: 12
+    openIssue: 11
+    commit: 66
+  last90d:
+    since: 2026-06-05
+    release: 1
+    mergedPR: 279
+    openPR: 42
+    closedIssue: 78
+    openIssue: 16
+    commit: 281
+  last180d:
+    since: 2026-03-07
+    release: 5
+    mergedPR: 455
+    openPR: 45
+    closedIssue: 169
+    openIssue: 22
+    commit: 472
+  last360d:
+    since: 2025-09-08
+    release: 16
+    mergedPR: 709
+    openPR: 47
+    closedIssue: 336
+    openIssue: 36
+    commit: 714
