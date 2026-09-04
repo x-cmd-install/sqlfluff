@@ -7,7 +7,7 @@ about:
   head: 63df283
   archived: false
   latestVersion: 4.3.0
-  collectedAt: 2026-09-04T19:27:17Z
+  collectedAt: 2026-09-04T21:06:00Z
 timeline:
   created: 2018-11-01
   lastCommit: 2026-09-03
@@ -89,6 +89,104 @@ total:
   openIssue: 285
   commit: 6959
 ---
+path: /home/runner/.x-repo/github.com/sqlfluff/sqlfluff
+collectedAt: 2026-09-04T21:06:05Z
+loc:
+  Yaml:
+    code: 439706
+    comments: 12613
+    blanks: 3836
+    files: 2476
+  Python:
+    code: 156745
+    comments: 12740
+    blanks: 18389
+    files: 478
+  Sql:
+    code: 43816
+    comments: 3481
+    blanks: 9279
+    files: 2597
+  Rust:
+    code: 20836
+    comments: 1735
+    blanks: 2526
+    files: 88
+  ReStructuredText:
+    code: 5592
+    comments: 0
+    blanks: 1794
+    files: 44
+  Toml:
+    code: 612
+    comments: 101
+    blanks: 82
+    files: 18
+  ForgeConfig:
+    code: 340
+    comments: 176
+    blanks: 109
+    files: 5
+  JavaScript:
+    code: 265
+    comments: 98
+    blanks: 88
+    files: 2
+  Json:
+    code: 229
+    comments: 0
+    blanks: 0
+    files: 7
+  Ini:
+    code: 208
+    comments: 64
+    blanks: 29
+    files: 3
+  Css:
+    code: 157
+    comments: 34
+    blanks: 26
+    files: 2
+  Dockerfile:
+    code: 37
+    comments: 17
+    blanks: 17
+    files: 2
+  Makefile:
+    code: 33
+    comments: 12
+    blanks: 15
+    files: 2
+  Batch:
+    code: 27
+    comments: 2
+    blanks: 9
+    files: 1
+  Autoconf:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 2
+  Jinja2:
+    code: 2
+    comments: 0
+    blanks: 0
+    files: 1
+  Markdown:
+    code: 0
+    comments: 13300
+    blanks: 3336
+    files: 72
+  Text:
+    code: 0
+    comments: 63
+    blanks: 5
+    files: 13
+total:
+  code: 670392
+  comments: 46576
+  blanks: 40015
+  files: 5813
 ---
 date: "2026-08-24"
 repo:
