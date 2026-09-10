@@ -7,7 +7,7 @@ about:
   latestVersion: "4.3.0"
   latestRelease: "4.3.0"
   latestPrerelease: "4.0.4a1"
-  collectedAt: 2026-09-10T18:19:23Z
+  collectedAt: 2026-09-10T21:29:40Z
 timeline:
   created: 2018-11-01
   lastCommit: 2026-09-10
@@ -21,7 +21,7 @@ popularity:
   release: 142
   contributor: 612
   pullRequest: 4693
-  issue: 3763
+  issue: 3764
 language:
   Python: 6156632
   SQL: 1490671
@@ -41,7 +41,7 @@ recent:
     mergedPR: 51
     openPR: 24
     closedIssue: 19
-    openIssue: 10
+    openIssue: 11
     commit: 63
   last60d:
     since: 2026-07-12
@@ -49,7 +49,7 @@ recent:
     mergedPR: 154
     openPR: 32
     closedIssue: 41
-    openIssue: 12
+    openIssue: 13
     commit: 160
   last90d:
     since: 2026-06-12
@@ -57,7 +57,7 @@ recent:
     mergedPR: 278
     openPR: 35
     closedIssue: 77
-    openIssue: 13
+    openIssue: 14
     commit: 285
   last180d:
     since: 2026-03-14
@@ -65,7 +65,7 @@ recent:
     mergedPR: 458
     openPR: 38
     closedIssue: 172
-    openIssue: 20
+    openIssue: 21
     commit: 461
   last360d:
     since: 2025-09-15
@@ -73,7 +73,7 @@ recent:
     mergedPR: 719
     openPR: 40
     closedIssue: 344
-    openIssue: 35
+    openIssue: 36
     commit: 724
   last720d:
     since: 2024-09-20
@@ -81,18 +81,18 @@ recent:
     mergedPR: 1155
     openPR: 41
     closedIssue: 737
-    openIssue: 78
+    openIssue: 79
     commit: 1168
 total:
   release: 142
   mergedPR: 4242
   openPR: 41
   closedIssue: 3485
-  openIssue: 278
+  openIssue: 279
   commit: 6976
 ---
 path: /home/runner/.x-repo/github.com/sqlfluff/sqlfluff
-collectedAt: 2026-09-10T18:19:34Z
+collectedAt: 2026-09-10T21:29:48Z
 loc:
   Yaml:
     code: 442152
