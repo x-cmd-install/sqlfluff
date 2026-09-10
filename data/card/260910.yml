@@ -7,7 +7,7 @@ about:
   latestVersion: "4.3.0"
   latestRelease: "4.3.0"
   latestPrerelease: "4.0.4a1"
-  collectedAt: 2026-09-10T21:29:40Z
+  collectedAt: 2026-09-10T22:40:45Z
 timeline:
   created: 2018-11-01
   lastCommit: 2026-09-10
@@ -92,7 +92,7 @@ total:
   commit: 6976
 ---
 path: /home/runner/.x-repo/github.com/sqlfluff/sqlfluff
-collectedAt: 2026-09-10T21:29:48Z
+collectedAt: 2026-09-10T22:40:53Z
 loc:
   Yaml:
     code: 442152
