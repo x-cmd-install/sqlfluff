@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,899 · **Forks**: 1,175 · **Open issues**: 3,795 · **Contributors**: 629
+- **Stars**: 9,904 · **Forks**: 1,177 · **Open issues**: 3,799 · **Contributors**: 628
 
 ## Totals (cumulative)
 
-- **Releases**: 142 · **Merged PRs**: 4296 · **Open PRs**: 71 · **Closed issues**: 3512 · **Open issues**: 283 · **Commits**: 7028
+- **Releases**: 142 · **Merged PRs**: 4294 · **Open PRs**: 74 · **Closed issues**: 3512 · **Open issues**: 287 · **Commits**: 7028
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-01 | 0 | 56 | 60 | 25 | 20 | 69 |
-| last60d | 2026-08-02 | 1 | 128 | 65 | 42 | 23 | 138 |
-| 90d | 2026-07-03 | 1 | 258 | 68 | 73 | 24 | 265 |
-| last180d | 2026-04-04 | 4 | 454 | 69 | 165 | 27 | 462 |
-| 360d | 2025-10-06 | 16 | 757 | 70 | 349 | 46 | 759 |
-| last720d | 2024-10-11 | 23 | 1140 | 71 | 728 | 83 | 1152 |
+| 30d | 2026-09-02 | 0 | 52 | 63 | 22 | 23 | 69 |
+| last60d | 2026-08-03 | 1 | 127 | 68 | 41 | 27 | 138 |
+| 90d | 2026-07-04 | 1 | 256 | 71 | 73 | 28 | 265 |
+| last180d | 2026-04-05 | 4 | 452 | 72 | 165 | 31 | 462 |
+| 360d | 2025-10-07 | 16 | 754 | 73 | 349 | 50 | 759 |
+| last720d | 2024-10-12 | 23 | 1135 | 74 | 726 | 87 | 1146 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for sqlfluff lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261001.yml` · 2026-10-01T07:12:08Z._
+_Snapshot: `data/card/261002.yml` · 2026-10-02T06:54:22Z._
