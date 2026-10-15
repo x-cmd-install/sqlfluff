@@ -14,13 +14,13 @@ x install sqlfluff
 
 ## Code insight
 
-Total: **692,984** lines of code across **5849** files in the top 5 languages.
+Total: **693,034** lines of code across **5849** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Yaml | 464,305 | 13,317 | 4,095 | 2572 |
+| Yaml | 464,352 | 13,317 | 4,095 | 2572 |
 | Python | 160,104 | 13,145 | 18,702 | 476 |
-| Sql | 45,951 | 3,725 | 9,790 | 2694 |
+| Sql | 45,954 | 3,725 | 9,791 | 2694 |
 | Rust | 20,785 | 1,729 | 2,536 | 89 |
 | Toml | 610 | 100 | 81 | 18 |
 
@@ -47,22 +47,22 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,955 · **Forks**: 1,219 · **Open issues**: 3,820 · **Contributors**: 641
+- **Stars**: 9,965 · **Forks**: 1,226 · **Open issues**: 3,820 · **Contributors**: 642
 
 ## Totals (cumulative)
 
-- **Releases**: 143 · **Merged PRs**: 4357 · **Open PRs**: 79 · **Closed issues**: 3529 · **Open issues**: 291 · **Commits**: 7091
+- **Releases**: 143 · **Merged PRs**: 4358 · **Open PRs**: 82 · **Closed issues**: 3529 · **Open issues**: 291 · **Commits**: 7092
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 1 | 89 | 68 | 21 | 33 | 107 |
-| last60d | 2026-08-15 | 1 | 154 | 72 | 48 | 38 | 160 |
-| 90d | 2026-07-16 | 2 | 249 | 73 | 70 | 39 | 250 |
-| last180d | 2026-04-17 | 5 | 487 | 77 | 168 | 42 | 498 |
-| 360d | 2025-10-19 | 16 | 795 | 78 | 348 | 60 | 798 |
-| last720d | 2024-10-24 | 23 | 1162 | 79 | 717 | 97 | 1184 |
+| 30d | 2026-09-15 | 1 | 89 | 71 | 20 | 33 | 108 |
+| last60d | 2026-08-16 | 1 | 152 | 75 | 48 | 38 | 161 |
+| 90d | 2026-07-17 | 2 | 245 | 76 | 69 | 39 | 251 |
+| last180d | 2026-04-18 | 5 | 487 | 80 | 168 | 42 | 499 |
+| 360d | 2025-10-20 | 16 | 792 | 81 | 348 | 60 | 799 |
+| last720d | 2024-10-25 | 23 | 1163 | 82 | 714 | 97 | 1175 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for sqlfluff lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T06:07:54Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T05:49:35Z._
