@@ -47,22 +47,37 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 9,988 · **Forks**: 1,253 · **Open issues**: 3,828 · **Contributors**: 662
+- **Stars**: 9,989 · **Forks**: 1,257 · **Open issues**: 3,830 · **Contributors**: 662
 
 ## Totals (cumulative)
 
-- **Releases**: 143 · **Merged PRs**: 4408 · **Open PRs**: 75 · **Closed issues**: 3551 · **Open issues**: 277 · **Commits**: 7142
+- **Releases**: 143 · **Merged PRs**: 4408 · **Open PRs**: 80 · **Closed issues**: 3551 · **Open issues**: 279 · **Commits**: 7142
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-22 | 1 | 107 | 46 | 30 | 17 | 127 |
-| last60d | 2026-08-23 | 1 | 188 | 68 | 59 | 24 | 204 |
-| 90d | 2026-07-24 | 2 | 272 | 69 | 82 | 27 | 283 |
-| last180d | 2026-04-25 | 5 | 522 | 73 | 179 | 30 | 533 |
-| 360d | 2025-10-27 | 16 | 829 | 74 | 363 | 45 | 832 |
-| last720d | 2024-11-01 | 22 | 1205 | 75 | 727 | 81 | 1217 |
+| 30d | 2026-09-23 | 1 | 106 | 50 | 30 | 18 | 127 |
+| last60d | 2026-08-24 | 1 | 186 | 73 | 59 | 26 | 204 |
+| 90d | 2026-07-25 | 2 | 268 | 74 | 81 | 29 | 283 |
+| last180d | 2026-04-26 | 5 | 522 | 78 | 179 | 32 | 533 |
+| 360d | 2025-10-28 | 16 | 827 | 79 | 362 | 47 | 832 |
+| last720d | 2024-11-02 | 22 | 1205 | 80 | 727 | 83 | 1216 |
+
+## Distribution status
+
+Reported by **30** distros on [repology.org](https://repology.org/project/sqlfluff). **5** are ✅ on the latest upstream release, **25** are ⚠️ on an older version.
+
+| Distro | Version | Status |
+|--------|---------|--------|
+| Debian unstable | `4.3.0` | ⚠️ outdated |
+| Debian 14 | `4.3.0` | ⚠️ outdated |
+| Debian 13 | `3.3.1` | ⚠️ outdated |
+| Ubuntu 26.04 LTS | `3.5.0` | ⚠️ outdated |
+| Ubuntu 24.04 LTS | `2.3.5` | ⚠️ outdated |
+| Arch | `4.4.0` | ✅ latest |
+| Homebrew | `4.4.0` | ✅ latest |
+| Nix unstable | `4.4.0` | ✅ latest |
 
 ## Improve this data
 
@@ -73,4 +88,4 @@ Install metadata for sqlfluff lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261022.yml` · 2026-10-22T05:55:05Z._
+_Snapshot: `data/card/261023.yml` · 2026-10-23T05:59:16Z._
