@@ -47,26 +47,26 @@ Lowest-scoring checks:
 
 ## Popularity
 
-- **Stars**: 10,004 · **Forks**: 1,279 · **Open issues**: 3,852 · **Contributors**: 685
+- **Stars**: 10,009 · **Forks**: 1,278 · **Open issues**: 3,854 · **Contributors**: 685
 
 ## Totals (cumulative)
 
-- **Releases**: 144 · **Merged PRs**: 4493 · **Open PRs**: 57 · **Closed issues**: 3589 · **Open issues**: 263 · **Commits**: 7227
+- **Releases**: 144 · **Merged PRs**: 4493 · **Open PRs**: 58 · **Closed issues**: 3589 · **Open issues**: 265 · **Commits**: 7227
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-01 | 2 | 161 | 45 | 43 | 12 | 199 |
-| last60d | 2026-09-01 | 2 | 255 | 51 | 81 | 22 | 275 |
-| 90d | 2026-08-02 | 3 | 327 | 53 | 100 | 23 | 342 |
-| last180d | 2026-05-04 | 6 | 597 | 56 | 197 | 27 | 611 |
-| 360d | 2025-11-05 | 16 | 909 | 56 | 380 | 42 | 916 |
-| last720d | 2024-11-10 | 23 | 1275 | 57 | 748 | 75 | 1295 |
+| 30d | 2026-10-02 | 2 | 155 | 44 | 42 | 14 | 154 |
+| last60d | 2026-09-02 | 2 | 251 | 52 | 77 | 24 | 254 |
+| 90d | 2026-08-03 | 3 | 326 | 54 | 99 | 25 | 331 |
+| last180d | 2026-05-05 | 6 | 597 | 57 | 196 | 29 | 603 |
+| 360d | 2025-11-06 | 16 | 906 | 57 | 376 | 44 | 901 |
+| last720d | 2024-11-11 | 23 | 1275 | 58 | 746 | 77 | 1288 |
 
 ## Distribution status
 
-Reported by **30** distros on [repology.org](https://repology.org/project/sqlfluff). **5** are ✅ on the latest upstream release, **25** are ⚠️ on an older version.
+Reported by **30** distros on [repology.org](https://repology.org/project/sqlfluff). **1** are ✅ on the latest upstream release, **29** are ⚠️ on an older version.
 
 | Distro | Version | Status |
 |--------|---------|--------|
@@ -75,9 +75,9 @@ Reported by **30** distros on [repology.org](https://repology.org/project/sqlflu
 | Debian 13 | `3.3.1` | ⚠️ outdated |
 | Ubuntu 26.04 LTS | `3.5.0` | ⚠️ outdated |
 | Ubuntu 24.04 LTS | `2.3.5` | ⚠️ outdated |
-| Arch | `4.4.0` | ✅ latest |
-| Homebrew | `4.4.0` | ✅ latest |
-| Nix unstable | `4.4.0` | ✅ latest |
+| Arch | `4.4.0` | ⚠️ outdated |
+| Homebrew | `4.5.0` | ✅ latest |
+| Nix unstable | `4.4.0` | ⚠️ outdated |
 
 ## Improve this data
 
@@ -88,4 +88,4 @@ Install metadata for sqlfluff lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261031.yml` · 2026-10-31T06:57:43Z._
+_Snapshot: `data/card/261101.yml` · 2026-11-01T07:19:28Z._
