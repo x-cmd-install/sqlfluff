@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `4.5.0` (2026-10-30)
-- **Last commit**: 2026-10-30
+- **Last commit**: 2026-11-01
 
 ## Popularity
 
-- **Stars**: 10,009 · **Forks**: 1,278 · **Open issues**: 3,854 · **Contributors**: 685
+- **Stars**: 10,011 · **Forks**: 1,280 · **Open issues**: 3,855 · **Contributors**: 685
 
 ## Totals (cumulative)
 
-- **Releases**: 144 · **Merged PRs**: 4493 · **Open PRs**: 58 · **Closed issues**: 3589 · **Open issues**: 265 · **Commits**: 7227
+- **Releases**: 144 · **Merged PRs**: 4494 · **Open PRs**: 65 · **Closed issues**: 3589 · **Open issues**: 266 · **Commits**: 7228
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-02 | 2 | 155 | 44 | 42 | 14 | 154 |
-| last60d | 2026-09-02 | 2 | 251 | 52 | 77 | 24 | 254 |
-| 90d | 2026-08-03 | 3 | 326 | 54 | 99 | 25 | 331 |
-| last180d | 2026-05-05 | 6 | 597 | 57 | 196 | 29 | 603 |
-| 360d | 2025-11-06 | 16 | 906 | 57 | 376 | 44 | 901 |
-| last720d | 2024-11-11 | 23 | 1275 | 58 | 746 | 77 | 1288 |
+| 30d | 2026-10-03 | 1 | 150 | 50 | 41 | 15 | 155 |
+| last60d | 2026-09-03 | 2 | 250 | 59 | 75 | 25 | 255 |
+| 90d | 2026-08-04 | 3 | 326 | 61 | 99 | 26 | 332 |
+| last180d | 2026-05-06 | 6 | 598 | 64 | 196 | 30 | 604 |
+| 360d | 2025-11-07 | 16 | 905 | 64 | 374 | 45 | 902 |
+| last720d | 2024-11-12 | 23 | 1275 | 65 | 744 | 78 | 1288 |
 
 ## Distribution status
 
@@ -88,4 +88,4 @@ Install metadata for sqlfluff lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261101.yml` · 2026-11-01T07:19:28Z._
+_Snapshot: `data/card/261102.yml` · 2026-11-02T07:29:48Z._
