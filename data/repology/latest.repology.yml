@@ -1,3 +1,18 @@
+- repo: parrot
+  subrepo: parrot-updates/main
+  srcname: sqlfluff
+  binnames:
+    - sqlfluff
+    - sqlfluff-doc
+  visiblename: sqlfluff
+  version: 3.3.1
+  origversion: 3.3.1-1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - jello@debian.org
+  categories:
+    - misc
 - repo: arch
   subrepo: extra
   srcname: sqlfluff
@@ -212,9 +227,9 @@
 - repo: nix_unstable
   srcname: sqlfluff
   visiblename: sqlfluff
-  version: 4.4.0
+  version: 4.5.0
   origversion: null
-  status: outdated
+  status: newest
   summary: SQL linter and auto-formatter
   maintainers:
     - mail@fabian-affolter.ch
@@ -233,21 +248,6 @@
     - MIT
 - repo: parrot
   subrepo: parrot/main
-  srcname: sqlfluff
-  binnames:
-    - sqlfluff
-    - sqlfluff-doc
-  visiblename: sqlfluff
-  version: 3.3.1
-  origversion: 3.3.1-1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - jello@debian.org
-  categories:
-    - misc
-- repo: parrot
-  subrepo: parrot-updates/main
   srcname: sqlfluff
   binnames:
     - sqlfluff
