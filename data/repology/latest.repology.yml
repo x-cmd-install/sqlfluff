@@ -1,48 +1,58 @@
-- repo: devuan_unstable
-  subrepo: unstable/main
+- repo: manjaro_testing
+  subrepo: extra
   srcname: sqlfluff
-  binnames:
-    - sqlfluff
-    - sqlfluff-doc
+  binname: sqlfluff
+  visiblename: sqlfluff
+  version: 4.5.0
+  origversion: 4.5.0-1
+  status: newest
+  summary: A dialect-flexible and configurable SQL linter
+  licenses:
+    - MIT
+- repo: manjaro_unstable
+  subrepo: extra
+  srcname: sqlfluff
+  binname: sqlfluff
+  visiblename: sqlfluff
+  version: 4.5.0
+  origversion: 4.5.0-1
+  status: newest
+  summary: A dialect-flexible and configurable SQL linter
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: sqlfluff
+  visiblename: sqlfluff
+  version: 3.2.5
+  origversion: null
+  status: outdated
+  summary: SQL linter and auto-formatter
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
+- repo: nix_stable_24_05
+  srcname: sqlfluff
+  visiblename: sqlfluff
+  version: 3.0.7
+  origversion: null
+  status: outdated
+  summary: SQL linter and auto-formatter
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
+- repo: manjaro_stable
+  subrepo: extra
+  srcname: sqlfluff
+  binname: sqlfluff
   visiblename: sqlfluff
   version: 4.3.0
-  origversion: 4.3.0-2
+  origversion: 4.3.0-1
   status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - jello@debian.org
-  categories:
-    - misc
-- repo: raspbian_testing
-  subrepo: main
-  srcname: sqlfluff
-  binnames:
-    - sqlfluff
-    - sqlfluff-doc
-  visiblename: sqlfluff
-  version: 4.3.0
-  origversion: 4.3.0-2
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - jello@debian.org
-  categories:
-    - misc
-- repo: deepin_25
-  subrepo: community
-  srcname: sqlfluff
-  binnames:
-    - sqlfluff
-    - sqlfluff-doc
-  visiblename: sqlfluff
-  version: 3.3.1
-  origversion: 3.3.1-1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - jello@debian.org
-  categories:
-    - python
+  summary: A dialect-flexible and configurable SQL linter
+  licenses:
+    - MIT
 - repo: arch
   subrepo: extra
   srcname: sqlfluff
@@ -114,6 +124,36 @@
     - jello@debian.org
   categories:
     - misc
+- repo: deepin_25
+  subrepo: community
+  srcname: sqlfluff
+  binnames:
+    - sqlfluff
+    - sqlfluff-doc
+  visiblename: sqlfluff
+  version: 3.3.1
+  origversion: 3.3.1-1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - jello@debian.org
+  categories:
+    - python
+- repo: devuan_unstable
+  subrepo: unstable/main
+  srcname: sqlfluff
+  binnames:
+    - sqlfluff
+    - sqlfluff-doc
+  visiblename: sqlfluff
+  version: 4.3.0
+  origversion: 4.3.0-2
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - jello@debian.org
+  categories:
+    - misc
 - repo: homebrew
   srcname: sqlfluff
   visiblename: sqlfluff
@@ -136,61 +176,6 @@
     - jello@debian.org
   categories:
     - misc
-- repo: manjaro_stable
-  subrepo: extra
-  srcname: sqlfluff
-  binname: sqlfluff
-  visiblename: sqlfluff
-  version: 4.3.0
-  origversion: 4.3.0-1
-  status: outdated
-  summary: A dialect-flexible and configurable SQL linter
-  licenses:
-    - MIT
-- repo: manjaro_testing
-  subrepo: extra
-  srcname: sqlfluff
-  binname: sqlfluff
-  visiblename: sqlfluff
-  version: 4.4.0
-  origversion: 4.4.0-1
-  status: outdated
-  summary: A dialect-flexible and configurable SQL linter
-  licenses:
-    - MIT
-- repo: manjaro_unstable
-  subrepo: extra
-  srcname: sqlfluff
-  binname: sqlfluff
-  visiblename: sqlfluff
-  version: 4.5.0
-  origversion: 4.5.0-1
-  status: newest
-  summary: A dialect-flexible and configurable SQL linter
-  licenses:
-    - MIT
-- repo: nix_stable_24_05
-  srcname: sqlfluff
-  visiblename: sqlfluff
-  version: 3.0.7
-  origversion: null
-  status: outdated
-  summary: SQL linter and auto-formatter
-  maintainers:
-    - mail@fabian-affolter.ch
-  licenses:
-    - MIT
-- repo: nix_stable_24_11
-  srcname: sqlfluff
-  visiblename: sqlfluff
-  version: 3.2.5
-  origversion: null
-  status: outdated
-  summary: SQL linter and auto-formatter
-  maintainers:
-    - mail@fabian-affolter.ch
-  licenses:
-    - MIT
 - repo: nix_stable_25_05
   srcname: sqlfluff
   visiblename: sqlfluff
@@ -247,7 +232,7 @@
   licenses:
     - MIT
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: sqlfluff
   binnames:
     - sqlfluff
@@ -262,7 +247,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: sqlfluff
   binnames:
     - sqlfluff
@@ -315,6 +300,21 @@
   visiblename: sqlfluff
   version: 3.3.1
   origversion: 3.3.1-1
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - jello@debian.org
+  categories:
+    - misc
+- repo: raspbian_testing
+  subrepo: main
+  srcname: sqlfluff
+  binnames:
+    - sqlfluff
+    - sqlfluff-doc
+  visiblename: sqlfluff
+  version: 4.3.0
+  origversion: 4.3.0-2
   status: outdated
   maintainers:
     - team+python@tracker.debian.org
@@ -405,6 +405,21 @@
   visiblename: sqlfluff
   version: 3.5.0
   origversion: 3.5.0-2
+  status: outdated
+  maintainers:
+    - team+python@tracker.debian.org
+    - jello@debian.org
+  categories:
+    - universe/misc
+- repo: ubuntu_27_04_proposed
+  subrepo: tenacious-proposed/universe
+  srcname: sqlfluff
+  binnames:
+    - sqlfluff
+    - sqlfluff-doc
+  visiblename: sqlfluff
+  version: 4.3.0
+  origversion: 4.3.0-2
   status: outdated
   maintainers:
     - team+python@tracker.debian.org
