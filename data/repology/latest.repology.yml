@@ -1,27 +1,35 @@
-- repo: nix_stable_24_11
+- repo: ubuntu_25_04
+  subrepo: plucky/universe
   srcname: sqlfluff
+  binnames:
+    - sqlfluff
+    - sqlfluff-doc
   visiblename: sqlfluff
-  version: 3.2.5
-  origversion: null
+  version: 3.3.1
+  origversion: 3.3.1-1
   status: outdated
-  summary: SQL linter and auto-formatter
   maintainers:
-    - mail@fabian-affolter.ch
-  licenses:
-    - MIT
-- repo: nix_stable_25_05
+    - team+python@tracker.debian.org
+    - jello@debian.org
+  categories:
+    - universe/misc
+- repo: deepin_25
+  subrepo: community
   srcname: sqlfluff
+  binnames:
+    - sqlfluff
+    - sqlfluff-doc
   visiblename: sqlfluff
-  version: 3.4.0
-  origversion: null
+  version: 3.3.1
+  origversion: 3.3.1-1
   status: outdated
-  summary: SQL linter and auto-formatter
   maintainers:
-    - mail@fabian-affolter.ch
-  licenses:
-    - MIT
-- repo: debian_14
-  subrepo: forky/main
+    - team+python@tracker.debian.org
+    - jello@debian.org
+  categories:
+    - python
+- repo: devuan_unstable
+  subrepo: unstable/main
   srcname: sqlfluff
   binnames:
     - sqlfluff
@@ -35,17 +43,6 @@
     - jello@debian.org
   categories:
     - misc
-- repo: nix_stable_25_11
-  srcname: sqlfluff
-  visiblename: sqlfluff
-  version: 3.5.0
-  origversion: null
-  status: outdated
-  summary: SQL linter and auto-formatter
-  maintainers:
-    - mail@fabian-affolter.ch
-  licenses:
-    - MIT
 - repo: arch
   subrepo: extra
   srcname: sqlfluff
@@ -87,8 +84,8 @@
     - jello@debian.org
   categories:
     - misc
-- repo: debian_unstable
-  subrepo: sid/main
+- repo: debian_14
+  subrepo: forky/main
   srcname: sqlfluff
   binnames:
     - sqlfluff
@@ -102,23 +99,8 @@
     - jello@debian.org
   categories:
     - misc
-- repo: deepin_25
-  subrepo: community
-  srcname: sqlfluff
-  binnames:
-    - sqlfluff
-    - sqlfluff-doc
-  visiblename: sqlfluff
-  version: 3.3.1
-  origversion: 3.3.1-1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - jello@debian.org
-  categories:
-    - python
-- repo: devuan_unstable
-  subrepo: unstable/main
+- repo: debian_unstable
+  subrepo: sid/main
   srcname: sqlfluff
   binnames:
     - sqlfluff
@@ -159,9 +141,9 @@
   srcname: sqlfluff
   binname: sqlfluff
   visiblename: sqlfluff
-  version: 4.3.0
-  origversion: 4.3.0-1
-  status: outdated
+  version: 4.5.0
+  origversion: 4.5.0-1
+  status: newest
   summary: A dialect-flexible and configurable SQL linter
   licenses:
     - MIT
@@ -191,6 +173,39 @@
   srcname: sqlfluff
   visiblename: sqlfluff
   version: 3.0.7
+  origversion: null
+  status: outdated
+  summary: SQL linter and auto-formatter
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
+- repo: nix_stable_24_11
+  srcname: sqlfluff
+  visiblename: sqlfluff
+  version: 3.2.5
+  origversion: null
+  status: outdated
+  summary: SQL linter and auto-formatter
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
+- repo: nix_stable_25_05
+  srcname: sqlfluff
+  visiblename: sqlfluff
+  version: 3.4.0
+  origversion: null
+  status: outdated
+  summary: SQL linter and auto-formatter
+  maintainers:
+    - mail@fabian-affolter.ch
+  licenses:
+    - MIT
+- repo: nix_stable_25_11
+  srcname: sqlfluff
+  visiblename: sqlfluff
+  version: 3.5.0
   origversion: null
   status: outdated
   summary: SQL linter and auto-formatter
@@ -232,7 +247,7 @@
   licenses:
     - MIT
 - repo: parrot
-  subrepo: parrot-updates/main
+  subrepo: parrot/main
   srcname: sqlfluff
   binnames:
     - sqlfluff
@@ -247,7 +262,7 @@
   categories:
     - misc
 - repo: parrot
-  subrepo: parrot/main
+  subrepo: parrot-updates/main
   srcname: sqlfluff
   binnames:
     - sqlfluff
@@ -330,21 +345,6 @@
   visiblename: sqlfluff
   version: 2.3.5
   origversion: 2.3.5-1
-  status: outdated
-  maintainers:
-    - team+python@tracker.debian.org
-    - jello@debian.org
-  categories:
-    - universe/misc
-- repo: ubuntu_25_04
-  subrepo: plucky/universe
-  srcname: sqlfluff
-  binnames:
-    - sqlfluff
-    - sqlfluff-doc
-  visiblename: sqlfluff
-  version: 3.3.1
-  origversion: 3.3.1-1
   status: outdated
   maintainers:
     - team+python@tracker.debian.org
