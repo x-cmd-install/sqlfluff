@@ -14,24 +14,24 @@ x install sqlfluff
 
 ## Code insight
 
-Total: **769,227** lines of code across **6409** files in the top 5 languages.
+Total: **771,496** lines of code across **6430** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Yaml | 516,872 | 14,969 | 4,517 | 2837 |
-| Python | 176,075 | 14,435 | 20,652 | 492 |
-| Sql | 50,181 | 4,007 | 11,316 | 2959 |
-| Rust | 24,201 | 1,840 | 2,866 | 101 |
-| Toml | 648 | 117 | 87 | 20 |
+| Yaml | 518,208 | 15,012 | 4,525 | 2846 |
+| Python | 176,741 | 14,447 | 20,741 | 496 |
+| Sql | 50,307 | 4,012 | 11,380 | 2967 |
+| Rust | 24,339 | 1,815 | 2,879 | 101 |
+| Toml | 649 | 117 | 87 | 20 |
 
 ## OpenSSF Scorecard
 
-Overall score: **5.6 / 10**
+Overall score: **5.7 / 10**
 
 Lowest-scoring checks:
 
-- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **CII-Best-Practices** (0/10) — no effort to earn an OpenSSF best practices badge detected
+- **Token-Permissions** (0/10) — detected GitHub workflow tokens with excessive permissions
 - **Fuzzing** (0/10) — project is not fuzzed
 
 ## Source
@@ -43,41 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `4.5.0` (2026-10-30)
-- **Last commit**: 2026-11-23
+- **Last commit**: 2026-11-25
 
 ## Popularity
 
-- **Stars**: 10,035 · **Forks**: 1,346 · **Open issues**: 3,893 · **Contributors**: 730
+- **Stars**: 10,037 · **Forks**: 1,348 · **Open issues**: 3,893 · **Contributors**: 730
 
 ## Totals (cumulative)
 
-- **Releases**: 144 · **Merged PRs**: 4693 · **Open PRs**: 53 · **Closed issues**: 3650 · **Open issues**: 243 · **Commits**: 7435
+- **Releases**: 144 · **Merged PRs**: 4704 · **Open PRs**: 48 · **Closed issues**: 3651 · **Open issues**: 242 · **Commits**: 7446
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-25 | 1 | 225 | 43 | 44 | 13 | 217 |
-| last60d | 2026-09-25 | 2 | 375 | 49 | 87 | 22 | 404 |
-| 90d | 2026-08-26 | 2 | 465 | 50 | 122 | 24 | 490 |
-| last180d | 2026-05-28 | 4 | 760 | 52 | 211 | 27 | 765 |
-| 360d | 2025-11-29 | 15 | 1082 | 52 | 393 | 41 | 1097 |
-| last720d | 2024-12-04 | 23 | 1463 | 53 | 773 | 72 | 1476 |
-
-## Distribution status
-
-Reported by **31** distros on [repology.org](https://repology.org/project/sqlfluff). **7** are ✅ on the latest upstream release, **24** are ⚠️ on an older version.
-
-| Distro | Version | Status |
-|--------|---------|--------|
-| Debian unstable | `4.3.0` | ⚠️ outdated |
-| Debian 14 | `4.3.0` | ⚠️ outdated |
-| Debian 13 | `3.3.1` | ⚠️ outdated |
-| Ubuntu 26.04 LTS | `3.5.0` | ⚠️ outdated |
-| Ubuntu 24.04 LTS | `2.3.5` | ⚠️ outdated |
-| Arch | `4.5.0` | ✅ latest |
-| Homebrew | `4.5.0` | ✅ latest |
-| Nix unstable | `4.5.0` | ✅ latest |
+| 30d | 2026-10-26 | 1 | 220 | 37 | 37 | 12 | 228 |
+| last60d | 2026-09-26 | 2 | 384 | 44 | 88 | 20 | 415 |
+| 90d | 2026-08-27 | 2 | 475 | 45 | 123 | 23 | 501 |
+| last180d | 2026-05-29 | 4 | 769 | 47 | 211 | 26 | 776 |
+| 360d | 2025-11-30 | 15 | 1093 | 47 | 394 | 40 | 1108 |
+| last720d | 2024-12-05 | 23 | 1472 | 48 | 771 | 71 | 1487 |
 
 ## Improve this data
 
@@ -88,4 +73,4 @@ Install metadata for sqlfluff lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261124.yml` · 2026-11-24T11:53:28Z._
+_Snapshot: `data/card/261125.yml` · 2026-11-25T10:21:41Z._
