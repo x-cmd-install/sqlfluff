@@ -2,29 +2,29 @@ about:
   description: "A modular SQL linter and auto-formatter with support for multiple dialects and templated code."
   license: MIT
   homepage: https://www.sqlfluff.com
-  head: 63fd396
+  head: 6e10915
   archived: false
   latestVersion: "4.5.0"
   latestRelease: "4.5.0"
   latestPrerelease: "4.0.4a1"
-  collectedAt: 2026-11-27T10:37:41Z
+  collectedAt: 2026-11-28T09:32:35Z
 timeline:
   created: 2018-11-01
-  lastCommit: 2026-11-26
+  lastCommit: 2026-11-28
   lastVersion: 2026-10-30
   lastRelease: 2026-10-30
   lastPrerelease: 2026-02-08
 popularity:
   star: 10038
   watcher: 35
-  fork: 1355
+  fork: 1359
   release: 144
-  contributor: 733
-  pullRequest: 5399
-  issue: 3894
+  contributor: 736
+  pullRequest: 5413
+  issue: 3898
 language:
-  Python: 7035245
-  SQL: 1734909
+  Python: 7086158
+  SQL: 1755977
   Rust: 1163687
   TypeScript: 26311
   Vue: 21892
@@ -33,82 +33,82 @@ language:
   Dockerfile: 2531
   Makefile: 1042
   Jinja: 117
-totalBytes: 10014814
+totalBytes: 10086795
 recent:
   last30d:
-    since: 2026-10-28
+    since: 2026-10-29
     release: 1
-    mergedPR: 220
-    openPR: 44
+    mergedPR: 233
+    openPR: 40
     closedIssue: 37
-    openIssue: 12
-    commit: 236
+    openIssue: 15
+    commit: 253
   last60d:
-    since: 2026-09-28
+    since: 2026-09-29
     release: 2
-    mergedPR: 389
-    openPR: 49
-    closedIssue: 88
-    openIssue: 18
-    commit: 423
+    mergedPR: 403
+    openPR: 44
+    closedIssue: 85
+    openIssue: 20
+    commit: 440
   last90d:
-    since: 2026-08-29
+    since: 2026-08-30
     release: 2
-    mergedPR: 480
-    openPR: 51
-    closedIssue: 124
-    openIssue: 23
-    commit: 509
-  last180d:
-    since: 2026-05-31
-    release: 4
-    mergedPR: 777
-    openPR: 53
-    closedIssue: 212
+    mergedPR: 497
+    openPR: 47
+    closedIssue: 125
     openIssue: 26
-    commit: 784
+    commit: 526
+  last180d:
+    since: 2026-06-01
+    release: 4
+    mergedPR: 793
+    openPR: 49
+    closedIssue: 213
+    openIssue: 29
+    commit: 801
   last360d:
-    since: 2025-12-02
+    since: 2025-12-03
     release: 15
-    mergedPR: 1101
-    openPR: 53
+    mergedPR: 1118
+    openPR: 49
     closedIssue: 394
-    openIssue: 40
-    commit: 1116
+    openIssue: 43
+    commit: 1133
   last720d:
-    since: 2024-12-07
+    since: 2024-12-08
     release: 23
-    mergedPR: 1480
-    openPR: 54
-    closedIssue: 772
-    openIssue: 71
-    commit: 1492
+    mergedPR: 1497
+    openPR: 50
+    closedIssue: 773
+    openIssue: 74
+    commit: 1509
 total:
   release: 144
-  mergedPR: 4712
-  openPR: 54
-  closedIssue: 3652
-  openIssue: 242
-  commit: 7454
+  mergedPR: 4729
+  openPR: 50
+  closedIssue: 3653
+  openIssue: 245
+  commit: 7471
 ---
 path: /home/runner/.x-repo/github.com/sqlfluff/sqlfluff
-collectedAt: 2026-11-27T10:37:51Z
+collectedAt: 2026-11-28T09:32:51Z
 loc:
   Yaml:
-    code: 519674
-    comments: 15032
-    blanks: 4543
-    files: 2850
+    code: 525246
+    comments: 15129
+    blanks: 4546
+    files: 2868
   Python:
-    code: 177301
-    comments: 14499
-    blanks: 20820
+    code: 178587
+    comments: 14582
+    blanks: 20943
     files: 498
   Sql:
-    code: 50426
-    comments: 4028
-    blanks: 11408
-    files: 2971
+    code: 50983
+    comments: 4050
+    blanks: 11567
+    files: 2989
   Rust:
     code: 24475
     comments: 1825
@@ -166,8 +166,8 @@ loc:
     files: 1
   Markdown:
     code: 0
-    comments: 13377
-    blanks: 3146
+    comments: 13408
+    blanks: 3155
     files: 73
   Text:
     code: 0
@@ -175,10 +175,10 @@ loc:
     blanks: 4
     files: 12
 total:
-  code: 775544
-  comments: 51951
-  blanks: 43669
-  files: 6549
+  code: 782967
+  comments: 52184
+  blanks: 43963
+  files: 6585
 ---
 date: "2026-11-23"
 repo:
