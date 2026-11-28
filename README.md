@@ -14,13 +14,13 @@ x install sqlfluff
 
 ## Code insight
 
-Total: **773,777** lines of code across **6441** files in the top 5 languages.
+Total: **781,192** lines of code across **6477** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Yaml | 519,674 | 15,032 | 4,543 | 2850 |
-| Python | 177,301 | 14,499 | 20,820 | 498 |
-| Sql | 50,426 | 4,028 | 11,408 | 2971 |
+| Yaml | 525,246 | 15,129 | 4,546 | 2868 |
+| Python | 178,587 | 14,582 | 20,943 | 498 |
+| Sql | 50,983 | 4,050 | 11,567 | 2989 |
 | Rust | 24,475 | 1,825 | 2,892 | 102 |
 | Toml | 649 | 117 | 87 | 20 |
 
@@ -43,26 +43,26 @@ Lowest-scoring checks:
 ## Release
 
 - **Latest**: `4.5.0` (2026-10-30)
-- **Last commit**: 2026-11-26
+- **Last commit**: 2026-11-28
 
 ## Popularity
 
-- **Stars**: 10,038 · **Forks**: 1,355 · **Open issues**: 3,894 · **Contributors**: 733
+- **Stars**: 10,038 · **Forks**: 1,359 · **Open issues**: 3,898 · **Contributors**: 736
 
 ## Totals (cumulative)
 
-- **Releases**: 144 · **Merged PRs**: 4712 · **Open PRs**: 54 · **Closed issues**: 3652 · **Open issues**: 242 · **Commits**: 7454
+- **Releases**: 144 · **Merged PRs**: 4729 · **Open PRs**: 50 · **Closed issues**: 3653 · **Open issues**: 245 · **Commits**: 7471
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 1 | 220 | 44 | 37 | 12 | 236 |
-| last60d | 2026-09-28 | 2 | 389 | 49 | 88 | 18 | 423 |
-| 90d | 2026-08-29 | 2 | 480 | 51 | 124 | 23 | 509 |
-| last180d | 2026-05-31 | 4 | 777 | 53 | 212 | 26 | 784 |
-| 360d | 2025-12-02 | 15 | 1101 | 53 | 394 | 40 | 1116 |
-| last720d | 2024-12-07 | 23 | 1480 | 54 | 772 | 71 | 1492 |
+| 30d | 2026-10-29 | 1 | 233 | 40 | 37 | 15 | 253 |
+| last60d | 2026-09-29 | 2 | 403 | 44 | 85 | 20 | 440 |
+| 90d | 2026-08-30 | 2 | 497 | 47 | 125 | 26 | 526 |
+| last180d | 2026-06-01 | 4 | 793 | 49 | 213 | 29 | 801 |
+| 360d | 2025-12-03 | 15 | 1118 | 49 | 394 | 43 | 1133 |
+| last720d | 2024-12-08 | 23 | 1497 | 50 | 773 | 74 | 1509 |
 
 ## Improve this data
 
@@ -73,4 +73,4 @@ Install metadata for sqlfluff lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T10:38:13Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T09:33:18Z._
